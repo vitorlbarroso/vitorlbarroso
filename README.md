@@ -1,0 +1,3 @@
+- 🙌 Bem-Vindo ao meu Perfil!
+- 👨‍💻 Desenvolvedor Junior.
+- 💼 Programador e Empreendedor.
