@@ -1,3 +1,4 @@
 - 🙌 Bem-Vindo ao meu Perfil!
 - 👨‍💻 Desenvolvedor Junior.
-- 💼 Programador e Empreendedor.
+- 💼 Programador Lua e PHP.
+- 👀 Visionando aprimoramento em NodeJS
