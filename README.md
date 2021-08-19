@@ -1,5 +1,5 @@
 - 🙌 Welcome to my profile!
 - 👨‍💻 Junior Developer.
-- 💼 Lua and PHP programmer.
+- 💼 Lua programmer.
 - 👀 Viewing improvements in NodeJS
 
