@@ -2,7 +2,7 @@
 
 - 🙌 Bem-vindo ao meu perfil!
 - 👨‍💻 Desenvolvedor Júnior.
-- 💼 JavaScript and Lua programmer.
+- 💼 Javascript and Lua programmer.
 
 <div>
   <a href="https://github.com/vitorlbarroso">
