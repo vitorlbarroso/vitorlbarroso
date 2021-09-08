@@ -1,9 +1,8 @@
 ## Prazer, sou o Vitor Barroso!!
 
 - 🙌 Bem-vindo ao meu perfil!
-- 👨‍💻 Junior Developer.
-- 💼 Lua programmer.
-- 👀 Visando aprender NodeJS.
+- 👨‍💻 Desenvolvedor Júnior.
+- 💼 JavaScript and Lua programmer.
 
 <div>
   <a href="https://github.com/vitorlbarroso">
@@ -14,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitor-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
 </div>
