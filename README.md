@@ -1,8 +1,8 @@
 ## Prazer, sou o Vitor Barroso!!
 
 - 🙌 Bem-vindo ao meu perfil!
-- 👨‍💻 Desenvolvedor Júnior.
-- 💼 Javascript and Lua programmer.
+- 👨‍💻 Desenvolvedor Web.
+- 💼 Especialidade em Back-end.
 
 <div>
   <a href="https://github.com/vitorlbarroso">
