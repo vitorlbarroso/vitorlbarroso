@@ -1,4 +1,4 @@
-## Prazer, sou o Vitor Barroso!!
+## Prazer, sou o Vitor!!
 
 - 🙌 Bem-vindo ao meu perfil!
 - 👨‍💻 Desenvolvedor Web.
