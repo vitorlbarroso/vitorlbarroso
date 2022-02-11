@@ -25,7 +25,7 @@
   <br />
   <h4>🧱 Back-end<h4>
     
-  <img align="center" alt="Vitor-Php" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> |
+  <img align="center" alt="Vitor-Php" height="25" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> |
   <img align="center" alt="Vitor-Lua" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
    
   <br />
