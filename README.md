@@ -57,5 +57,5 @@
 </div>
     
 <div>
-    <img height="200em" src="https://cdn.discordapp.com/attachments/890042596112601120/941719481468727367/FundoGitHub.png"/>
+    <img height="150em" src="https://cdn.discordapp.com/attachments/890042596112601120/941719481468727367/FundoGitHub.png"/>
 </div>
