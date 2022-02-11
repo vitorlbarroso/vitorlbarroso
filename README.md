@@ -22,19 +22,16 @@
   <img align="center" alt="Vitor-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">  |
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
-  <br />
   <h4>🧱 Back-end<h4>
     
   <img align="center" alt="Vitor-Php" height="25" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> |
   <img align="center" alt="Vitor-Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
    
-  <br />
   <h4>🗄 Banco de Dados<h4>
    
   <img align="center" alt="Vitor-MySql" height="35" width="48" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"> |
   <img align="center" alt="Vitor-MariaDB" height="35" width="48" src="https://www.mobileatom.net/wp-content/uploads/2020/06/mariadb-e1592314921352.png">
     
-  <br />
   <h4>🧮 Componentes<h4>
     
   <img align="center" alt="Vitor-Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
