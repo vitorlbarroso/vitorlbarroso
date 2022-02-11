@@ -18,20 +18,20 @@
     
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
-  <img align="center" alt="Vitor-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png"> |
-  <img align="center" alt="Vitor-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"> |
+  <img align="center" alt="Vitor-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png"> | 
+  <img align="center" alt="Vitor-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">  |
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
   <br />
   <h4>🧱 Back-end<h4>
     
-  <img align="center" alt="Vitor-Php" height="35" width="35" src="https://www.pngarts.com/files/6/PHP-Logo-Transparent-Image.png">
+  <img align="center" alt="Vitor-Php" height="35" width="35" src="https://www.pngarts.com/files/6/PHP-Logo-Transparent-Image.png"> |
   <img align="center" alt="Vitor-Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
    
   <br />
   <h4>🗄 Banco de Dados<h4>
    
-  <img align="center" alt="Vitor-MySql" height="35" width="45" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
+  <img align="center" alt="Vitor-MySql" height="35" width="45" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"> |
   <img align="center" alt="Vitor-MariaDB" height="35" width="45" src="https://www.mobileatom.net/wp-content/uploads/2020/06/mariadb-e1592314921352.png">
     
   <br />
