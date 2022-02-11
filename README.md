@@ -36,7 +36,7 @@
 
   <h4>🌐 CMS<h4>
   
-  <img align="center" alt="Vitor-WordPress" height="50" width="50" src="https://s3.amazonaws.com/dinder.com.br/wp-content/uploads/2016/08/WordPress-Logo-PNG-Pic-180x180.png">
+  <img align="center" alt="Vitor-WordPress" height="40" width="40" src="https://pngimg.com/uploads/wordpress/wordpress_PNG13.png">
   <br />
   ---><img align="center" alt="Vitor-WordPressAstra" height="40" width="40" src="https://toolbarextras.com/wp-content/uploads/2018/04/astra-theme-logo.png">
     
