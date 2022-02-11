@@ -36,9 +36,9 @@
 
   <h4>🌐 CMS<h4>
   
-  <img align="center" alt="Vitor-WordPress" height="45" width="45" src="https://s3.amazonaws.com/dinder.com.br/wp-content/uploads/2016/08/WordPress-Logo-PNG-Pic-180x180.png">
+  <img align="center" alt="Vitor-WordPress" height="50" width="50" src="https://s3.amazonaws.com/dinder.com.br/wp-content/uploads/2016/08/WordPress-Logo-PNG-Pic-180x180.png">
   <br />
-  ---><img align="center" alt="Vitor-WordPressAstra" height="45" width="45" src="https://toolbarextras.com/wp-content/uploads/2018/04/astra-theme-logo.png">
+  ---><img align="center" alt="Vitor-WordPressAstra" height="40" width="40" src="https://toolbarextras.com/wp-content/uploads/2018/04/astra-theme-logo.png">
     
   <h4>🧮 Componentes<h4>
     
