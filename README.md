@@ -31,7 +31,7 @@
     
   <h4>🧱 CMS<h4>
   
-  <img align="center" alt="Vitor-WordPress" height="35" width="35" src="https://s3.amazonaws.com/dinder.com.br/wp-content/uploads/2016/08/WordPress-Logo-PNG-Pic-180x180.png">
+  <img align="center" alt="Vitor-WordPress" height="40" width="40" src="https://s3.amazonaws.com/dinder.com.br/wp-content/uploads/2016/08/WordPress-Logo-PNG-Pic-180x180.png">
    
   <h4>🗄 Banco de Dados<h4>
    
