@@ -14,7 +14,6 @@
 <div style="display: inline_block">
   <h3>🖥 Tecnologias Utilizadas:</h3>
   
-  <br />
   <h4>🎨 Front-end<h4>
     
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
