@@ -25,8 +25,8 @@
   <br />
   <h4>🧱 Back-end<h4>
     
-  <img align="center" alt="Vitor-Php" height="35" width="35" src="https://www.pngarts.com/files/6/PHP-Logo-Transparent-Image.png"> |
-  <img align="center" alt="Vitor-Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
+  <img align="center" alt="Vitor-Php" height="40" width="40" src="http://assets.stickpng.com/thumbs/58481791cef1014c0b5e4994.png"> |
+  <img align="center" alt="Vitor-Lua" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
    
   <br />
   <h4>🗄 Banco de Dados<h4>
