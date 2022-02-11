@@ -53,5 +53,11 @@
 <div> 
   <a href="https://www.youtube.com/c/HalZz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vitorlbarroso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<p>Não deixe de me seguir <3</p>
+  <p>Não deixe de me seguir <3</p>
+</div>
+    
+##
+    
+<div>
+    <img height="200em" src="https://cdn.discordapp.com/attachments/890042596112601120/941719481468727367/FundoGitHub.png"/>
 </div>
