@@ -3,6 +3,7 @@
 - 🙌 Bem-vindo ao meu perfil!
 - 👨‍💻 Desenvolvedor Web.
 - 💼 Especialidade em Back-end.
+- 💝 Gostou? Não esquece de seguir para ficar por dentro de tudo que acontece aqui :)
 
 <br>
 <div>
@@ -11,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlbarroso&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>🖥 Tecnologias Utilizadas:</h3>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
