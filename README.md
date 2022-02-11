@@ -4,11 +4,12 @@
 - 👨‍💻 Desenvolvedor Web.
 - 💼 Especialidade em Back-end.
 
+<br>
 <div>
   <a href="https://github.com/vitorlbarroso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitorlbarroso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlbarroso&layout=compact&langs_count=7&theme=radical"/>
-</div><br>
+</div>
   
 <div style="display: inline_block"><br>
   <h3>🖥 Tecnologias Utilizadas:</h3>
