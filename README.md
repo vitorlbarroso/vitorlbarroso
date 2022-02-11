@@ -31,8 +31,8 @@
   <br />
   <h4>🗄 Banco de Dados<h4>
    
-  <img align="center" alt="Vitor-MySql" height="35" width="45" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"> |
-  <img align="center" alt="Vitor-MariaDB" height="35" width="45" src="https://www.mobileatom.net/wp-content/uploads/2020/06/mariadb-e1592314921352.png">
+  <img align="center" alt="Vitor-MySql" height="35" width="48" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"> |
+  <img align="center" alt="Vitor-MariaDB" height="35" width="48" src="https://www.mobileatom.net/wp-content/uploads/2020/06/mariadb-e1592314921352.png">
     
   <br />
   <h4>🧮 Componentes<h4>
