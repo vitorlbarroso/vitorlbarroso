@@ -42,9 +42,10 @@
 ##
 
 <h3>📱 Redes Sociais:</h3>
-<h5>Não esqueça de me seguir nelas <3<h5>
    
 <div> 
   <a href="https://www.youtube.com/c/HalZz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vitorlbarroso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+    
+<h5>Não deixe de me seguir nelas <3 <3<h5>
