@@ -52,5 +52,6 @@
     
   <img align="center" alt="Vitor-Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
      
-     <h2>Alguns projetos:</h2>
 </div>
+     
+<h2>Alguns projetos:</h2>
