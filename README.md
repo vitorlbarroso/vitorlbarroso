@@ -37,11 +37,8 @@
   <h4>🌐 CMS<h4>
   
   <img align="center" alt="Vitor-WordPress" height="30" width="30" src="https://pngimg.com/uploads/wordpress/wordpress_PNG13.png">
-  <br />
-  ---> <img align="center" alt="Vitor-WordPressAstra" height="35" width="35" src="https://toolbarextras.com/wp-content/uploads/2018/04/astra-theme-logo.png"> |
-       <img align="center" alt="Vitor-WordPressGutenberg" height="30" width="30" src="https://www.drupal.org/files/project-images/gutenberg_pattern_drupal_720_0_0.png">
     
-  <h4>🧮 Componentes<h4>
+  <h4>🧮 Adicionais<h4>
     
   <img align="center" alt="Vitor-Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
