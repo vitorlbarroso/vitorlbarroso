@@ -14,8 +14,7 @@ let vitorlbarroso = {
 }
 ```
 
-<h4>📱 Social Media:</h4>
-   
+<h3>📱 Social Media:</h3> 
 <div> 
   <a href="https://www.youtube.com/c/HalZz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vitorlbarroso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
