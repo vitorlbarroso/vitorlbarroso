@@ -1,11 +1,14 @@
 <div>
    <img src="https://cdn.discordapp.com/attachments/890042596112601120/969571781281206343/capagithub2.png">
 <div>
+   
+<div>
 ```
    let myName = 'Vitor Barroso';
 ```
+<div>
+   
 ##
-
 <h3>📱 Redes Sociais:</h3>
    
 <div> 
