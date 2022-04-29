@@ -1,7 +1,7 @@
 <div>
    <img src="https://cdn.discordapp.com/attachments/890042596112601120/969571781281206343/capagithub2.png">
 <div>
-   ```js  
+```js  
 
 Console.log(3 > 2) 
 
