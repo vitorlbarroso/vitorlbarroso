@@ -1,5 +1,5 @@
 <div>
-   <img src="https://cdn.discordapp.com/attachments/890042596112601120/969571270398181396/capagithub.png">
+   <img src="https://discord.com/channels/890042595584147536/890042596112601120/969571781595783218">
 <div>
 
 ## Prazer, sou o Vitor!!
