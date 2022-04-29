@@ -1,3 +1,7 @@
+<div>
+   <img src="https://cdn.discordapp.com/attachments/890042596112601120/969571270398181396/capagithub.png">
+<div>
+
 ## Prazer, sou o Vitor!!
 
 - 🙌 Bem-vindo ao meu perfil!
