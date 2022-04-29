@@ -3,8 +3,7 @@
 <div>
 
 ```js
-let i = {
-   name: 'Vitor Barroso',
+let vitorlbarroso = {
    age: 17,
    coutry: 'Brasil',
    state: 'Espirito Santo',
