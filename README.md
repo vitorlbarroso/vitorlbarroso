@@ -2,14 +2,6 @@
    <img src="https://cdn.discordapp.com/attachments/890042596112601120/969571781281206343/capagithub2.png">
 <div>
 
-<div>
-[Link to Google](https://www.google.com)
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-<div>
    
 ##
 <h3>📱 Redes Sociais:</h3>
