@@ -9,7 +9,7 @@ let vitorlbarroso = {
    state: 'Espirito Santo',
    city: 'Santa Maria de Jetibá',
    actualStack: ['Javascript', 'PHP', 'MySql'],
-   futureStack: ['Vue.JS', 'React Native', 'Node.JS', 'MongoDB'],
+   futureStack: ['Vue.JS', 'React.JS', 'Node.JS', 'MongoDB'],
    hobbies: ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
 }
 ```
