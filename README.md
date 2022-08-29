@@ -8,8 +8,8 @@ let vitorlbarroso = {
    coutry: 'Brasil',
    state: 'Espirito Santo',
    city: 'Santa Maria de Jetibá',
-   actualStack: ['Javascript', 'PHP', 'MySql'],
-   futureStack: ['Vue.JS', 'React.JS', 'Node.JS', 'MongoDB'],
+   actualStack: ['Javascript', 'Vue.JS, 'PHP', 'Laravel', 'MySql'],
+   futureStack: ['Node.JS', 'Python'],
    hobbies: ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
 }
 ```
