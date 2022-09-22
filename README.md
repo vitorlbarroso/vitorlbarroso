@@ -2,15 +2,15 @@
    <img src="https://cdn.discordapp.com/attachments/890042596112601120/969571781281206343/capagithub2.png">
 <div>
 
-```js
-let vitorlbarroso = {
-   age: 17,
-   coutry: 'Brasil',
-   state: 'Espirito Santo',
-   city: 'Santa Maria de Jetibá',
-   Stack: ['Javascript', 'Vue.JS, 'PHP', 'Laravel', 'MySql'],
-   hobbies: ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
-}
+```php
+$vitorlbarroso = [
+   age => 17,
+   coutry => 'Brasil',
+   state => 'Espirito Santo',
+   city => 'Santa Maria de Jetibá',
+   stack => ['Javascript', 'Vue.JS, 'PHP', 'Laravel', 'MySql'],
+   hobbies => ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
+]
 ```
 
 <h3>📱 Social Media:</h3> 
