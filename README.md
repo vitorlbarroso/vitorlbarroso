@@ -4,12 +4,12 @@
 
 ```php
 $vitorlbarroso = [
-   age => 17,
-   coutry => 'Brasil',
-   state => 'Espirito Santo',
-   city => 'Santa Maria de Jetibá',
-   stack => ['Javascript', 'Vue.JS, 'PHP', 'Laravel', 'MySql'],
-   hobbies => ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
+   'age' => 17,
+   'coutry' => 'Brasil',
+   'state' => 'Espirito Santo',
+   'city' => 'Santa Maria de Jetibá',
+   'stack' => ['Javascript', 'Vue.JS, 'PHP', 'Laravel', 'MySql'],
+   'hobbies' => ['Astronomy', 'Musics', 'Games', 'Beers', 'Gym']
 ]
 ```
 
