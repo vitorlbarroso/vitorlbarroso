@@ -8,7 +8,7 @@ $vitorlbarroso = [
    'coutry' => 'Brasil',
    'state' => 'Espirito Santo',
    'city' => 'Santa Maria de Jetibá',
-   'stack' => ['Javascript', 'Vue.JS, 'PHP', 'Laravel', 'MySql'],
+   'stack' => ['Javascript', 'Vue.JS, 'PHP', 'Laravel', C#, .NET CORE, Entity Framework,'MySql'],
    'hobbies' => ['Beers', 'Gym', 'Boxing', 'Cook']
 ]
 ```
